@@ -41,10 +41,6 @@
 <img src="https://komarev.com/ghpvc/?username=JustProMax&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="stat" align="left">
-<img src="https://img.shields.io/github/stars/JustProMax/JustProMax?style=social" width="107" height="23" https://komarev.com/ghpvc/?username=JustProMax&style=flat-square&color=blue></a>
-</div>
-
 ---
 
 
@@ -64,4 +60,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div id="stat" align="left">
+<img src="https://img.shields.io/github/stars/JustProMax/JustProMax?style=social" width="107" height="23" https://komarev.com/ghpvc/?username=JustProMax&style=flat-square&color=blue></a>
+</div>
 -->
