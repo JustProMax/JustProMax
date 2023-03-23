@@ -35,7 +35,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="js" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="django" width="40" height="40"/>&nbsp;
 
+### My stat
 
+<div id="stat" align="left">
+<img src="https://komarev.com/ghpvc/?username=JustProMax&style=flat-square&color=blue" alt=""/>
+</div>
+
+---
 
 
 
